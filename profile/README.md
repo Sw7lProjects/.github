@@ -82,7 +82,8 @@
 
 ---
 
-> **NOTE:** لو عندكم أي استفسار، تواصلوا مع المشرفين مباشرة.
+> [!NOTE]
+> لو عندكم أي استفسار، تواصلوا مع المشرفين مباشرة.
 
 <div align="center">  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Let's Start" width="400">  
