@@ -24,7 +24,7 @@ _The Software Arm of the AbuSwe7l Universe_
 
 [![Organization Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/Sw7lProjects)
 [![Lead Architect](https://img.shields.io/badge/LEAD%20ARCHITECT-RlxChap2-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RlxChap2)
-[![License](https://img.shields.io/badge/LICENSE-MIT-4a90d9?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
+[![License](https://img.shields.io/badge/LICENSE-Proprietary-4a90d9?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 [![Made With](https://img.shields.io/badge/BUILT%20WITH-Python%20%7C%20TypeScript%20%7C%20Rust-c792ea?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 [![Channel](https://img.shields.io/badge/YouTube-AbuSwe7l-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AbuSwe7l)
 
@@ -997,15 +997,16 @@ We are actively looking for engineers who share our values. If you have:
 
 ## License
 
-All production code in this organization is released under the **MIT License** unless otherwise specified per-repository.
+All production code in this organization is released under the **Proprietary License** unless otherwise specified per-repository.
 
 Research repositories may carry additional restrictions — check each repository's individual `LICENSE` file.
 
 ```
-MIT License — Copyright (c) 2024 Sw7l Projects / RlxChap2
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, and distribute, subject to the
-conditions of the full MIT license.
+Proprietary License — Copyright (c) 2024 Sw7lProjects / RlxChap2
+
+All rights reserved.
+
+Unauthorized copying, modification, distribution, merging, or use of this software, via any medium, is strictly prohibited. This software is proprietary and confidential, and is subject to the conditions of the full Proprietary license agreement.
 ```
 
 <br/>
@@ -1014,7 +1015,7 @@ conditions of the full MIT license.
 
 <br/>
 
-**Sw7l Projects** · Official Engineering Division of AbuSwe7l
+**Sw7lProjects** · Official Engineering Division of AbuSwe7l
 
 _Built with precision. Documented with care. Shipped with confidence._
 
@@ -1026,6 +1027,6 @@ _Built with precision. Documented with care. Shipped with confidence._
 
 <br/>
 
-_Document version `1.0.3` · Last revised by RlxChap2 · April 2026_
+_Document version `1.0.5` · Last revised by RlxChap2 · April 2026_
 
 </div>
