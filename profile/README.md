@@ -26,7 +26,7 @@ _The Software Arm of the AbuSwe7l Universe_
 [![Lead Architect](https://img.shields.io/badge/LEAD%20ARCHITECT-RlxChap2-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RlxChap2)
 [![License](https://img.shields.io/badge/LICENSE-MIT-4a90d9?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 [![Made With](https://img.shields.io/badge/BUILT%20WITH-Python%20%7C%20TypeScript%20%7C%20Rust-c792ea?style=for-the-badge&logo=stackshare&logoColor=white)](#)
-[![Channel](https://img.shields.io/badge/YouTube-Abo%20Swe7l-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AbuSwe7l)
+[![Channel](https://img.shields.io/badge/YouTube-AbuSwe7l-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AbuSwe7l)
 
 <br/>
 
@@ -1027,11 +1027,11 @@ _Built with precision. Documented with care. Shipped with confidence._
 <br/>
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-Sw7lProjects-181717?style=for-the-badge&logo=github)](https://github.com/Sw7lProjects)
-[![YouTube](https://img.shields.io/badge/YouTube-Abo%20Swe7l-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@AbuSwe7l)
+[![YouTube](https://img.shields.io/badge/YouTube-AbuSwe7l-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@AbuSwe7l)
 [![Lead Architect](https://img.shields.io/badge/Architect-RlxChap2-ff6b35?style=for-the-badge&logo=github)](https://github.com/RlxChap2)
 
 <br/>
 
-_Document version `1.0.0` · Last revised by RlxChap2 · April 2026_
+_Document version `1.0.1` · Last revised by RlxChap2 · April 2026_
 
 </div>
