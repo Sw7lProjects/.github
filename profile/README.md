@@ -311,9 +311,9 @@ User Input → discord.py Gateway → Command Router → Module Handler
                                                │   Business Logic   │
                                                └─────────┬─────────┘
                                                          │
-                                          ┌──────────────▼───────────────┐
+                                          ┌──────────────▼────────────────┐
                                           │  PostgreSQL │ Redis │ Core API│
-                                          └─────────────────────────────┘
+                                          └───────────────────────────────┘
 ```
 
 ### 4.2.2 · Telegram Assistant Bot
@@ -895,7 +895,7 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
 | **GitHub Discussions**      | Architecture questions, proposals | Public             |
 | **Discord `#engineering`**  | Real-time team collaboration      | Team invite        |
 | **Discord `#contributors`** | Contributor support and mentoring | Community server   |
-| **Email `security@`**       | Security disclosures only         | Public (encrypted) |
+| **Email `support@`**        | Security disclosures only         | Public (encrypted) |
 
 <br/>
 
@@ -926,22 +926,29 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
 
 <table>
   <tr>
-    <!-- Core team members — add as the team grows -->
-    <td align="center" width="140">
-      <img src="https://github.com/ghost.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>[ Open Seat ]</b><br/><code>Bot Engineer</code></sub>
+  <td align="center" width="140">
+      <img src="https://github.com/iQMusa.png" width="80" style="border-radius:8px" alt="iQMusa"/><br/>
+      <sub><b>iQMusa</b><br/><code>Bot Developer</code></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://github.com/ghost.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>[ Open Seat ]</b><br/><code>API Engineer</code></sub>
+      <img src="https://github.com/iMorganSo.png" width="80" style="border-radius:8px" alt="iMorganSo"/><br/>
+      <sub><b>iMorganSo</b><br/><code>Bot Developer</code></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://github.com/ghost.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>[ Open Seat ]</b><br/><code>Security Researcher</code></sub>
+      <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="RlxChap2"/><br/>
+      <sub><b>RlxChap2</b><br/><code>API Engineer</code></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://github.com/ghost.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>[ Open Seat ]</b><br/><code>DevOps Engineer</code></sub>
+      <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
+      <sub><b>RlxChap2</b><br/><code>Security Researcher</code></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
+      <sub><b>RlxChap2</b><br/><code>DevOps Engineer</code></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://github.com/MohaDev-69.png" width="80" style="border-radius:8px" alt="MohaDev-69"/><br/>
+      <sub><b>MohaDev-69</b><br/><code>Web Developer</code></sub>
     </td>
   </tr>
 </table>
@@ -950,21 +957,28 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
 
 > _This section is automatically maintained. All humans who have merged a PR to any organization repository appear below._
 
-<!--
-  Contributors are listed automatically.
-  To add yourself after your first merged PR,
-  run: npm run contributors:add YOUR_USERNAME
-
-  The grid below will be populated as contributions are made.
--->
-
 <table>
   <tr>
     <td align="center" width="100">
       <img src="https://github.com/RlxChap2.png" width="64" style="border-radius:50%" alt="RlxChap2"/><br/>
       <sub><a href="https://github.com/RlxChap2"><b>RlxChap2</b></a><br/>Founder</sub>
     </td>
-    <!-- Additional contributors added automatically via all-contributors bot -->
+    <td align="center" width="100">
+      <img src="https://github.com/iQMusa.png" width="64" style="border-radius:50%" alt="iQMusa"/><br/>
+      <sub><a href="https://github.com/iQMusa"><b>iQMusa</b></a><br/>Admin & Developer</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/iMorganSo.png" width="64" style="border-radius:50%" alt="iMorganSo"/><br/>
+      <sub><a href="https://github.com/iMorganSo"><b>iMorganSo</b></a><br/>Developer</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/MAOHMME2D.png" width="64" style="border-radius:50%" alt="MAOHMME2D"/><br/>
+      <sub><a href="https://github.com/MAOHMME2D"><b>MAOHMME2D</b></a><br/>Developer</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/MohaDev-69.png" width="64" style="border-radius:50%" alt="MohaDev-69"/><br/>
+      <sub><a href="https://github.com/MohaDev-69"><b>MohaDev-69</b></a><br/>Developer</sub>
+    </td>
   </tr>
 </table>
 
