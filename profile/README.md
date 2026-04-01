@@ -935,20 +935,16 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
       <sub><b>iMorganSo</b><br/><code>Bot Developer</code></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="RlxChap2"/><br/>
-      <sub><b>RlxChap2</b><br/><code>API Engineer</code></sub>
-    </td>
-    <td align="center" width="140">
       <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>RlxChap2</b><br/><code>Security Researcher</code></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://github.com/RlxChap2.png" width="80" style="border-radius:8px" alt="TBD"/><br/>
-      <sub><b>RlxChap2</b><br/><code>DevOps Engineer</code></sub>
+      <sub><b>RlxChap2</b><br/><code>API · Security · DevOps</code></sub>
     </td>
     <td align="center" width="140">
       <img src="https://github.com/MohaDev-69.png" width="80" style="border-radius:8px" alt="MohaDev-69"/><br/>
-      <sub><b>MohaDev-69</b><br/><code>Web Developer</code></sub>
+      <sub><b>MohaDev-69</b><br/><code>Bot . Web Developer</code></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://github.com/MAOHMME2D.png" width="80" style="border-radius:8px" alt="MAOHMME2D"/><br/>
+      <sub><b>MAOHMME2D</b><br/><code>Bot & Web Developer</code></sub>
     </td>
   </tr>
 </table>
@@ -965,7 +961,7 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
     </td>
     <td align="center" width="100">
       <img src="https://github.com/iQMusa.png" width="64" style="border-radius:50%" alt="iQMusa"/><br/>
-      <sub><a href="https://github.com/iQMusa"><b>iQMusa</b></a><br/>Admin & Developer</sub>
+      <sub><a href="https://github.com/iQMusa"><b>iQMusa</b></a><br/>Admin & Dev</sub>
     </td>
     <td align="center" width="100">
       <img src="https://github.com/iMorganSo.png" width="64" style="border-radius:50%" alt="iMorganSo"/><br/>
@@ -981,20 +977,6 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
     </td>
   </tr>
 </table>
-
-**Contribution Legend:**
-
-| Contribution Type       |
-| ----------------------- |
-| Architecture & Founding |
-| Code                    |
-| Documentation           |
-| Research                |
-| Security                |
-| Bug Reports             |
-| Ideas & Design          |
-| Testing                 |
-| Infrastructure          |
 
 ## 10.4 · Join the Team
 
@@ -1046,6 +1028,6 @@ _Built with precision. Documented with care. Shipped with confidence._
 
 <br/>
 
-_Document version `1.0.1` · Last revised by RlxChap2 · April 2026_
+_Document version `1.0.3` · Last revised by RlxChap2 · April 2026_
 
 </div>
