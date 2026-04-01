@@ -951,8 +951,6 @@ This organization operates under the **Contributor Covenant v2.1**. In summary:
 
 ## 10.3 · All Contributors
 
-> _This section is automatically maintained. All humans who have merged a PR to any organization repository appear below._
-
 <table>
   <tr>
     <td align="center" width="100">
